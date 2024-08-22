@@ -31,7 +31,7 @@ The project focuses on applying classification algorithms to the abalone dataset
 ## How to Run the Notebook
 
 1. **Clone the Repository**: Clone this repository to your local machine.
-2. **Run this program from the cloned root folder; the database is loaded using a file path into the data folder.
+2. **Run this program** from the cloned root folder; the database is loaded using a file path into the data folder.
 
 # Warning!
-** The grid search is used to optimise the Nural Network searches across a vast combination of parameters. I have included the results in text format as re-running this block can take considerable time. My machine is no slouch, and it takes approximately four hours to search through combinations.
+**The grid search** is used to optimise the Nural Network searches across a vast combination of parameters. I have included the results in text format as re-running this block can take considerable time. My machine is no slouch, and it takes approximately four hours to search through combinations.
